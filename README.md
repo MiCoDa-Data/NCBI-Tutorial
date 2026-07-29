@@ -2,6 +2,7 @@
 <br />
 
 A Datathon is an event focused on the collection and archiving of 16S rRNA gene amplicon sequencing. 
+<br />
 For more information visit: https://micoda.idiv.de/v2/datathons
 
 <br />
