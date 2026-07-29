@@ -49,3 +49,17 @@ German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig
 <br/>
 
 Helmholtz Centre for Environmental Research-Leipzig
+
+<br/>
+
+[<img src=".\First time upload images\uni_jena_logo.jpg" width=35% height=35%/>](https://www.uni-jena.de/en)
+<br/>
+
+Friedrich Schiller University Jena
+
+<br/>
+
+[<img src=".\First time upload images\nfdi_logo.png" width=35% height=35%/>](https://www.nfdi4biodiversity.org/en/)
+<br/>
+
+NFDI4Biodiversity
