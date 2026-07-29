@@ -1,7 +1,7 @@
 # Datathon: a data archiving for equitability in microbial ecology #
 <br />
 
-A Datathon is an event focused on the collection and archiving of 16S rRNA gene amplicon sequencing. 
+A Datathon is an event focused on the collection and archiving of 16S rRNA gene amplicon sequencing. For more information visit: https://micoda.idiv.de/v2/datathons
 
 <br />
 
