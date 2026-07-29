@@ -19,7 +19,9 @@ To facilitate the sharing of data we have created two tutorials:
 
 <br />
 
-Data Submission Table for Datathon China: Already_uploaded_Datathon_Data.xlsx (https://github.com/MiCoDa-Data/NCBI-Tutorial/blob/main/Datathon%20tables/Already_uploaded_Datathon_Data.xlsx)
+**Data Submission Template for Datathon China:**
+
+* [Already_uploaded_Datathon_Data.xlsx](https://github.com/MiCoDa-Data/NCBI-Tutorial/blob/main/Datathon%20tables/Already_uploaded_Datathon_Data.xlsx)
 
 <br />
 
