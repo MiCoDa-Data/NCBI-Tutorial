@@ -34,11 +34,13 @@ To facilitate the sharing of data we have created two tutorials:
 <br />
 MiCoDa: the Microbial Community Database
 
+
 <br />
 
 [<img src=".\First time upload images\iDivLogo-short.png" width=30% height=30%/>](https://www.idiv.de/en)
 <br/>
 German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig
+
 
 <br />
 
@@ -51,6 +53,7 @@ Helmholtz Centre for Environmental Research-Leipzig
 [<img src=".\First time upload images\uni_jena_logo.jpg" width=35% height=35%/>](https://www.uni-jena.de/en)
 <br/>
 Friedrich Schiller University Jena
+
 
 <br/>
 
