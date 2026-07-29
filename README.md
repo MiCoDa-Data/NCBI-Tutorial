@@ -19,9 +19,7 @@ To facilitate the sharing of data we have created two tutorials:
 
 <br />
 
-**Data Submission Template for Datathon China:**
-
-* [Already_uploaded_Datathon_Data.xlsx](https://github.com/MiCoDa-Data/NCBI-Tutorial/blob/main/Datathon%20tables/Already_uploaded_Datathon_Data.xlsx)
+**Data Submission Template for Datathon China:** [Already_uploaded_Datathon_Data.xlsx](https://github.com/MiCoDa-Data/NCBI-Tutorial/blob/main/Datathon%20tables/Already_uploaded_Datathon_Data.xlsx)
 
 <br />
 
@@ -40,7 +38,7 @@ To facilitate the sharing of data we have created two tutorials:
 <br />
 MiCoDa: the Microbial Community Database
 
-
+<br/>
 
 <br />
 
@@ -48,7 +46,7 @@ MiCoDa: the Microbial Community Database
 <br/>
 German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig
 
-
+<br/>
 
 <br />
 
@@ -62,7 +60,7 @@ Helmholtz Centre for Environmental Research-Leipzig
 <br/>
 Friedrich Schiller University Jena
 
-
+<br/>
 
 <br/>
 
