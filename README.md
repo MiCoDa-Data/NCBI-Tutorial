@@ -33,7 +33,7 @@ To facilitate the sharing of data we have created two tutorials:
 
 <br />
 
-*Follow us on YouTube: **@MicrobialCommunityDatabase**
+*Follow us on YouTube:* **@MicrobialCommunityDatabase**
 
 <br />
 
