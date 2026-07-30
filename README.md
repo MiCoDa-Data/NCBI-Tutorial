@@ -29,7 +29,11 @@ To facilitate the sharing of data we have created two tutorials:
 
 <br />
 
-*Contact the MICODA Team:* <contact.micoda@gmail.com>
+*Contact the MiCoDa Team:* **<contact.micoda@gmail.com>**
+
+<br />
+
+*Follow us on YouTube: **@MicrobialCommunityDatabase**
 
 <br />
 
